@@ -13,6 +13,11 @@ capabilities of the open-source smart platform called FIWARE (www.fiware.org).
 
 Further details on the Fiware4Water project can be found in - www.fiware4water.eu
 
+## Developers
+
+The developers of this application are KWR Water Research Institute (www.kwrwater.nl) in 
+collaboration with Waternet (www.waternet.nl)
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
