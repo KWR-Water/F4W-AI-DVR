@@ -13,6 +13,11 @@ capabilities of the open-source smart platform called FIWARE (www.fiware.org).
 
 Further details on the Fiware4Water project can be found in - www.fiware4water.eu
 
+## Disclosure
+The goal to share this code is to aid developers in how a FIWARE-based solution could be set up for 
+handling sensor data. The code will not run successfully unless additional FIWARE components are 
+installed and a (possibly local) server is set up where the docker can be run. 
+
 ## Developers
 
 The developers of this application are KWR Water Research Institute (www.kwrwater.nl) in 
