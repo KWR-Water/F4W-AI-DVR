@@ -1,0 +1,20 @@
+{
+    "6218_SPLM_873": {
+        "param": "NH4",
+        "sensor_threshold_low": 0,
+        "sensor_threshold_high": 30,
+        "process_threshold_low": 0,
+        "process_threshold_high": 30,
+        "flatline_min_length": 15,
+        "offline_min_length": 15
+    },
+    "6254_SPRS_873": {
+        "param": "NO3",
+        "sensor_threshold_low": 0,
+        "sensor_threshold_high": 30,
+        "process_threshold_low": 0,
+        "process_threshold_high": 30,
+        "flatline_min_length": 15,
+        "offline_min_length": 15
+    }
+}
