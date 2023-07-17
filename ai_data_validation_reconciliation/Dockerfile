@@ -1,7 +1,6 @@
 # base image
 FROM python:3.7-slim
 
-LABEL maintainer="datalab@waternet.nl"
 
 # gunicorn's web server root
 WORKDIR /home/site/wwwroot
